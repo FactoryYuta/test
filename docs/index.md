@@ -8,3 +8,5 @@
 [homepage](https://www.hakodate-ct.ac.jp/)
 # 3.　部活
 [club activity](https://www.hakodate-ct.ac.jp/life/club)
+# 4.他のページへ
+[next](./test.md) 
